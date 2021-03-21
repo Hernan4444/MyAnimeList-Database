@@ -14,7 +14,7 @@ Folder with 1 zip per anime. In this repo, I upload only 5 zip, but all zip (17.
 
 ## animelist.csv
 
-CSV that contain the anime list per user with the respective score, watching status and numbers of episodes watched by the user. This dataset contains 109 Million row, 16.872 different animes and 310.059 different users. The file have the following columns:
+CSV that contain the anime list per user with the respective score, watching status and numbers of episodes watched by the user. This dataset contains 109 Million row, 17.562 different animes and 325.772 different users. The file have the following columns:
 
 1. user_id:  non identifiable randomly generated user id.
 2. anime_id: MyAnemlist ID of the anime. (e.g. 1).
