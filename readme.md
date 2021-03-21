@@ -16,7 +16,7 @@ Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anim
 
 * The "html" folder contain 1 zip per anime (17.562 different anime). Each zip contains different HTML pages scrapped from [MyAnimeList](https://myanimelist.net/).
 
-* `animelist.csv` have the list of all animes register by the user with the respective score, watching status and numbers of episodes watched. This dataset contains 109 Million row, 16.872 different animes and 310.059 different users.
+* `animelist.csv` have the list of all animes register by the user with the respective score, watching status and numbers of episodes watched. This dataset contains 109 Million row, 17.562 different animes and 325.772 different users.
 
 * `rating_complete.csv` is a subset of `animelist.csv`. This dataset only considers animes that the user has watched completely (`watching_status==2`) and gave it a score (`score!=0`). This dataset contains 57 Million ratings applied to 16.872 animes by 310.059 users.
 
