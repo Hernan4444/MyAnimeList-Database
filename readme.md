@@ -7,7 +7,7 @@ This dataset contains information about 17.562 anime and the preference from 325
 - Information about the anime like genre, stats, studio, etc.
 - HTML with anime information to do data scrapping. These files contain information such as reviews, synopsis, information about the staff, anime statistics, genre, etc.
 
-Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anime-recommendations-database-2020
+Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
 
 ### Warning: this dataset includes information about anime for adults (hentai). 
 
