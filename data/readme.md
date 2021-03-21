@@ -45,7 +45,7 @@ CSV that contains the list of ratings given by the user to animes with `watching
 In this repo, I upload only the file with 500 lines, but the complete file are in this folder: https://drive.google.com/drive/folders/1UhinqGrH2XytkpiD7LlLzMcn7MY2I_gt.
 
 
-## anime.tsv
+## anime.csv
 
 Information of anime scrapped of main page and stats page. This file have the following columns:
 

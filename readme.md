@@ -20,7 +20,7 @@ Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anim
 
 * `rating_complete.csv` is a subset of `animelist.csv`. This dataset only considers animes that the user has watched completely (`watching_status==2`) and gave it a score (`score!=0`). This dataset contains 57 Million ratings applied to 16.872 animes by 310.059 users.
 
-* `anime.tsv` contain general information of every anime (17.562 different anime) like genre, stats, studio, etc.
+* `anime.csv` contain general information of every anime (17.562 different anime) like genre, stats, studio, etc.
 
 Each dataset and description is in the [data folder](https://github.com/Hernan4444/MyAnimelist-Database/tree/master/data).
 
