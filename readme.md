@@ -9,7 +9,7 @@ This dataset contains information about 17.562 anime and the preference from 325
 
 **Warning**: this dataset includes information about anime for adults (hentai). 
 
-Also, the dataset is available at kaggle: LINK
+Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anime-recommendations-database-2020
 
 
 ### Content
