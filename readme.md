@@ -7,12 +7,12 @@ This dataset contains information about 17.562 anime and the preference from 325
 - Information about the anime like genre, stats, studio, etc.
 - HTML with anime information to do data scrapping. These files contain information such as reviews, synopsis, information about the staff, anime statistics, genre, etc.
 
-**Warning**: this dataset includes information about anime for adults (hentai). 
-
 Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anime-recommendations-database-2020
 
+### Warning: this dataset includes information about anime for adults (hentai). 
 
-### Content
+
+## Content
 
 * The "html" folder contain 1 zip per anime (17.562 different anime). Each zip contains different HTML pages scrapped from [MyAnimeList](https://myanimelist.net/).
 
@@ -25,7 +25,7 @@ Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anim
 Each dataset and description is in the [data folder](https://github.com/Hernan4444/MyAnimelist-Database/tree/master/data).
 
 
-### Acknowledgements
+## Acknowledgements
 
 Thanks to:
 1. [MyAnimeList](https://myanimelist.net/) for providing anime data.
@@ -33,7 +33,7 @@ Thanks to:
 3. Pontificia Universidad Católica de Chile for provide servers to run the code.
 
 
-### Inspiration
+## Inspiration
 
 1. Have an HTML files to experience the scraping exercise without the delay of each requests.
 
@@ -44,8 +44,6 @@ Thanks to:
 4. Identifying which feature allows us to build the best anime recommended system.
 
 
-### Ideas to the future
+## Ideas to the future
 
 1. Build the same dataset with manga and novel.
-
-
