@@ -86,6 +86,17 @@ Information of anime scrapped of main page and stats page. This file have the fo
 35. Score-1': number of users who scored 1. (e.g. 1580)
 
 
+## anime_with_synopsis.csv
+
+Information of anime scrapped of main page that include de Synopsis. This file only contain animes that not include Hentai in Genders column. This file have the following columns:
+
+1.  MAL_ID:  MyAnimelist ID of the anime. (e.g. 1) 
+2.  Name: full name of the anime. (e.g. Cowboy Bebop) 
+3.  Score: average score of the anime given from all users in MyAnimelist database. (e.g. 8.78) 
+4.  Genders: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space) 
+5.  Synopsis: string with the synopsis of the anime.
+
+
 -------------------------------------------
 
 # Another files generate by the code but not upload to keep the anonymity of users.
