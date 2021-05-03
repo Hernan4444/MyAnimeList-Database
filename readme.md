@@ -22,7 +22,7 @@ Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anim
 
 * `anime.csv` contain general information of every anime (17.562 different anime) like genre, stats, studio, etc.
 
-* `anime_with_synopsis` containt the synopsis of all anime that not include Hentai in Genres.
+* `anime_with_synopsis` contain the synopsis of all anime that not include Hentai in Genres.
 
 
 Each dataset and description is in the [data folder](https://github.com/Hernan4444/MyAnimelist-Database/tree/master/data).
