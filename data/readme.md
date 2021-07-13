@@ -52,7 +52,7 @@ Information of anime scrapped of main page and stats page. This file have the fo
 1.  MAL_ID:  MyAnimelist ID of the anime. (e.g. 1) 
 2.  Name: full name of the anime. (e.g. Cowboy Bebop) 
 3.  Score: average score of the anime given from all users in MyAnimelist database. (e.g. 8.78) 
-4.  Genders: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space) 
+4.  Genres: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space) 
 5.  English name: full name in english of the anime. (e.g. Cowboy Bebop) 
 6.  Japanese name: full name in japanses of the anime. (e.g. カウボーイビバップ) 
 7.  Type: TV, movie, OVA, etc. (e.g. TV)
@@ -88,12 +88,12 @@ Information of anime scrapped of main page and stats page. This file have the fo
 
 ## anime_with_synopsis.csv
 
-Information of anime scrapped of main page that include de Synopsis. This file only contain animes that not include Hentai in Genders column. This file have the following columns:
+Information of anime scrapped of main page that include de Synopsis. This file only contain animes that not include Hentai in Genres column. This file have the following columns:
 
 1.  MAL_ID:  MyAnimelist ID of the anime. (e.g. 1) 
 2.  Name: full name of the anime. (e.g. Cowboy Bebop) 
 3.  Score: average score of the anime given from all users in MyAnimelist database. (e.g. 8.78) 
-4.  Genders: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space) 
+4.  Genres: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space) 
 5.  Synopsis: string with the synopsis of the anime.
 
 
