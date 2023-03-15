@@ -3,7 +3,7 @@
 
 ## html folder
 
-Folder with 1 zip per anime. In this repo, I upload only 5 zip, but all zip (17.562 files) are in "html.zip": https://drive.google.com/drive/folders/1UhinqGrH2XytkpiD7LlLzMcn7MY2I_gt. The file name corresponds to the MyAnimelist ID of the anime. Each zip contains the HTML pages scrapped from [MyAnimeList](https://myanimelist.net/). The scrapped pages are:
+Folder with 1 zip per anime. In this repo, I upload only 5 zip, but all zip (17.562 files) are in "html.zip": https://drive.google.com/drive/folders/12ghJk-sWyXXORoLBUpPirK4YdtIaZPV_?usp=sharing. The file name corresponds to the MyAnimelist ID of the anime. Each zip contains the HTML pages scrapped from [MyAnimeList](https://myanimelist.net/). The scrapped pages are:
 
 - Main page
 - Reviews
@@ -23,7 +23,7 @@ CSV that contain the anime list per user with the respective score, watching sta
 5. watched_episodes: numbers of episodes watched by the user. (e.g. 24)
 
 
-In this repo, I upload only the file with 500 lines, but the complete file are in this folder: https://drive.google.com/drive/folders/1UhinqGrH2XytkpiD7LlLzMcn7MY2I_gt.
+In this repo, I upload only the file with 500 lines, but the complete file are in this folder: https://drive.google.com/drive/folders/12ghJk-sWyXXORoLBUpPirK4YdtIaZPV_?usp=sharing.
 
 
 ## watching_status.csv
@@ -42,7 +42,7 @@ CSV that contains the list of ratings given by the user to animes with `watching
 2. anime_id: - MyAnimelist ID of the anime that this user has rated.
 3. rating: rating that this user has assigned.
 
-In this repo, I upload only the file with 500 lines, but the complete file are in this folder: https://drive.google.com/drive/folders/1UhinqGrH2XytkpiD7LlLzMcn7MY2I_gt.
+In this repo, I upload only the file with 500 lines, but the complete file are in this folder: https://drive.google.com/drive/folders/12ghJk-sWyXXORoLBUpPirK4YdtIaZPV_?usp=sharing.
 
 
 ## anime.csv
